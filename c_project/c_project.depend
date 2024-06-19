@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1706491736 source:d:\embedded system diploma\in sessions\c_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<unistd.h>
+	<windows.h>
+	"statments.h"
+
+1706492353 d:\embedded system diploma\in sessions\c_project\statments.h
+
