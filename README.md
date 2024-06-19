@@ -1,1 +1,1 @@
-# c_project
+# Student Managment System
